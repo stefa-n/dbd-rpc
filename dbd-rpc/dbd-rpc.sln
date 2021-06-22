@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dbd-rpc", "dbd-rpc.vcxproj", "{E530A65E-837B-42AA-A325-7A33D806EB18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Debug|x64.ActiveCfg = Debug|x64
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Debug|x64.Build.0 = Debug|x64
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Debug|x86.ActiveCfg = Debug|Win32
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Debug|x86.Build.0 = Debug|Win32
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Release|x64.ActiveCfg = Release|x64
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Release|x64.Build.0 = Release|x64
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Release|x86.ActiveCfg = Release|Win32
+		{E530A65E-837B-42AA-A325-7A33D806EB18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731FC983-C757-41B3-B730-4C9FAA3469E4}
+	EndGlobalSection
+EndGlobal
